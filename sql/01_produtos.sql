@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS produtos (
+    id SERIAL PRIMARY KEY,
+    nome TEXT NOT NULL,
+    preco NUMERIC NOT NULL
+);

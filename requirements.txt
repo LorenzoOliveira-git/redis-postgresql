@@ -1,0 +1,3 @@
+psycopg2==2.9.13
+redis==8.1.0
+python-dotenv==1.2.3
